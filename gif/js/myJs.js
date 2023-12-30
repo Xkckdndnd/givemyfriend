@@ -3,15 +3,15 @@ const textConfig = {
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Bạn có thấy mình dễ thương không",
   text4: "Nếu hong trả lời là nghỉ chơi đó",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
+  text5: "Chơi tiếp nhaaaa",
+  text6: "Không chơi với cậu nữa",
+  text7: "Sao cậu lại không muốn chơi với tớ nữa hichic",
   text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text9: "Vì cầu quá dễ thương",
+  text10: "Xin lỗi cậu vì tớ quá dễ thương",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Tớ có cái này muốn cho cậu xem này hãy bấm vào nút bên dưới nhá",
+  text12: "Nút bên dưới :))",
 };
 
 $(document).ready(function () {
